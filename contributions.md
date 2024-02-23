@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 23   | https://github.com/joannakl/ossd/issues/93   | course website    |   Opened an issue addressing the inaccurate date in `README.md`  |
 |     |     |     |      |
 |     |     |     |      |
