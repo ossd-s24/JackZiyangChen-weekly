@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 23   | ![link](https://github.com/joannakl/ossd/issues/93)  | Course Website    |   Opened an issue addressing the inaccurate date in `README.md`  |
-| Feb 25   |   ![issue](https://www.openstreetmap.org/changeset/147912227) ![PR](https://www.openstreetmap.org/changeset/147912227)   |  Course Website   |  Identified broken links on course website and proposed a fix through PR    |
-| Feb 25   | ![link](https://www.openstreetmap.org/changeset/147912227)    |  OpenStreet Map Feature  |   Added information about a local ice rink in East Village   |
+| Feb 23   | [link](https://github.com/joannakl/ossd/issues/93)  | Course Website    |   Opened an issue addressing the inaccurate date in `README.md`  |
+| Feb 25   |   [issue](https://www.openstreetmap.org/changeset/147912227) [PR](https://www.openstreetmap.org/changeset/147912227)   |  Course Website   |  Identified broken links on course website and proposed a fix through PR    |
+| Feb 25   | [link](https://www.openstreetmap.org/changeset/147912227)    |  OpenStreet Map Feature  |   Added information about a local ice rink in East Village   |
