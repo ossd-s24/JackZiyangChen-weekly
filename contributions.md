@@ -28,3 +28,5 @@ Replace the first row with your own contribution.
 | Feb 28   | [link](https://www.openstreetmap.org/changeset/147912227)    |  OpenStreet Map Feature  |   Responded to comments on the page   |
 | Feb 28 | [link](https://www.openstreetmap.org/changeset/148033780) | OpenStreet Map Feature | Added a new restaurant around Washington Square Park |
 | Mar 10 | [link](https://www.openstreetmap.org/changeset/148480760) | OpenStreet Map Feature | Updated the closed verizon to a new restaurant |
+| Mar 30 | [link](https://www.openstreetmap.org/changeset/149373422) | OpenStreet Map Feature | Added a new restaurant around St. Marks Pl. |
+| Mar 30 | [link](https://github.com/joannakl/ossd/pull/108) | Course Website | Fixed incorrect due date display on the course website |
