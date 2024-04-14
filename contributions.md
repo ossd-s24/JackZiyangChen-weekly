@@ -30,3 +30,6 @@ Replace the first row with your own contribution.
 | Mar 10 | [link](https://www.openstreetmap.org/changeset/148480760) | OpenStreet Map Feature | Updated the closed verizon to a new restaurant |
 | Mar 30 | [link](https://www.openstreetmap.org/changeset/149373422) | OpenStreet Map Feature | Added a new restaurant around St. Marks Pl. |
 | Mar 30 | [link](https://github.com/joannakl/ossd/pull/108) | Course Website | Fixed incorrect due date display on the course website |
+| Apr 8 | [link](https://github.com/spicetify/spicetify-docs/issues/132) | Spicetify Documentation | Opened an issue addressing the incorrect installation instruction in the Spicetify documentation |
+| Apr 14 | [link](https://github.com/joannakl/ossd/issues/69) | Course Website | Added a design to potentially adding more website link in the nav bar |
+
