@@ -32,5 +32,6 @@ Replace the first row with your own contribution.
 | Mar 30 | [link](https://github.com/joannakl/ossd/pull/108) | Course Website | Fixed incorrect due date display on the course website |
 | Apr 8 | [link](https://github.com/spicetify/spicetify-docs/issues/132) | Spicetify Documentation | Opened an issue addressing the incorrect installation instruction in the Spicetify documentation |
 | Apr 14 | [link](https://github.com/joannakl/ossd/issues/69) | Course Website | Added a design to potentially adding more website link in the nav bar |
-| Apr 22 | [link](https://github.com/joannakl/ossd/pull/119) | Course Website | Implemented the new design for nav bar |
+| Apr 22 | [link](https://github.com/joannakl/ossd/pull/119) | Course Website | Coded and implemented the new design for nav bar |
+| Apr 28 | [link](https://github.com/joannakl/ossd/issues/125) |  Course Website | Opened a feature request issue for adding the wiki repo page to the course website for ease of access |
 
