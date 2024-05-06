@@ -34,4 +34,6 @@ Replace the first row with your own contribution.
 | Apr 14 | [link](https://github.com/joannakl/ossd/issues/69) | Course Website | Added a design to potentially adding more website link in the nav bar |
 | Apr 22 | [link](https://github.com/joannakl/ossd/pull/119) | Course Website | Coded and implemented the new design for nav bar |
 | Apr 28 | [link](https://github.com/joannakl/ossd/issues/125) |  Course Website | Opened a feature request issue for adding the wiki repo page to the course website for ease of access |
+| May 6 | [link](https://www.openstreetmap.org/changeset/150976352) | OpenStreet Map Feature | Updated a closed restaurant on St. Marks Pl |
+| May 6 | [link](https://en.wikipedia.org/w/index.php?title=2024%E2%80%9325_UEFA_Champions_League&oldid=1222565600) | Wikipedia Edit | Modified UEFA Champions League 24-25 page to reflect the updated ranking |
 
