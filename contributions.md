@@ -35,5 +35,7 @@ Replace the first row with your own contribution.
 | Apr 22 | [link](https://github.com/joannakl/ossd/pull/119) | Course Website | Coded and implemented the new design for nav bar |
 | Apr 28 | [link](https://github.com/joannakl/ossd/issues/125) |  Course Website | Opened a feature request issue for adding the wiki repo page to the course website for ease of access |
 | May 6 | [link](https://www.openstreetmap.org/changeset/150976352) | OpenStreet Map Feature | Updated a closed restaurant on St. Marks Pl |
-| May 6 | [link](https://en.wikipedia.org/w/index.php?title=2024%E2%80%9325_UEFA_Champions_League&oldid=1222565600) | Wikipedia Edit | Modified UEFA Champions League 24-25 page to reflect the updated ranking |
-
+| May 6 | [link](https://en.wikipedia.org/w/index.php?title=2024%E2%80%9325_UEFA_Champions_League&diff=prev&oldid=1222565600) | Wikipedia Edit | Modified UEFA Champions League 24-25 page to reflect the updated ranking |
+| May 6 | [link](https://en.wikipedia.org/w/index.php?title=2023%E2%80%9324_Bundesliga&diff=1222611850&oldid=1222538927) | Wikipedia Edit | Added the full assist table based as seen on Budesliga's official site |
+| May 6 | [link](https://en.wikipedia.org/w/index.php?title=CIF_Southern_Section&diff=prev&oldid=1222613286) | Wikipedia Edit | Fixed a discrepency between sections on the number of divisions Boys Tennis have|
+| May 6 | [link](https://en.wikipedia.org/w/index.php?title=Ralf_Rangnick&diff=prev&oldid=1222616959) | Wikipedia Edit | Added a update on Ralf Rangnick's managerial career |
