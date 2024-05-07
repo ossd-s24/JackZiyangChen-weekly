@@ -40,3 +40,5 @@ Replace the first row with your own contribution.
 | May 6 | [link](https://en.wikipedia.org/w/index.php?title=CIF_Southern_Section&diff=prev&oldid=1222613286) | Wikipedia Edit | Fixed a discrepency between sections on the number of divisions Boys Tennis have|
 | May 6 | [link](https://en.wikipedia.org/w/index.php?title=Ralf_Rangnick&diff=prev&oldid=1222616959) | Wikipedia Edit | Added a update on Ralf Rangnick's managerial career |
 | May 6 | [link](https://en.wikipedia.org/w/index.php?title=2023%E2%80%9324_Premier_League&diff=prev&oldid=1222623527) | Wikipedia Edit | Added a new section on the 2023-24 Premier League season |
+| May 7 | [link](https://github.com/geekquad/AlgoBook/pull/589) | AlgoBook | Added stack data structure in Java and two different implementations of stack |
+| May 7 | [link](https://github.com/geekquad/AlgoBook/pull/590) | AlgoBook | Added a few numerical analysis algorithms in Java |
