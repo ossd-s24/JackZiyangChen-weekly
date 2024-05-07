@@ -39,3 +39,4 @@ Replace the first row with your own contribution.
 | May 6 | [link](https://en.wikipedia.org/w/index.php?title=2023%E2%80%9324_Bundesliga&diff=1222611850&oldid=1222538927) | Wikipedia Edit | Added the full assist table based as seen on Budesliga's official site |
 | May 6 | [link](https://en.wikipedia.org/w/index.php?title=CIF_Southern_Section&diff=prev&oldid=1222613286) | Wikipedia Edit | Fixed a discrepency between sections on the number of divisions Boys Tennis have|
 | May 6 | [link](https://en.wikipedia.org/w/index.php?title=Ralf_Rangnick&diff=prev&oldid=1222616959) | Wikipedia Edit | Added a update on Ralf Rangnick's managerial career |
+| May 6 | [link](https://en.wikipedia.org/w/index.php?title=2023%E2%80%9324_Premier_League&diff=prev&oldid=1222623527) | Wikipedia Edit | Added a new section on the 2023-24 Premier League season |
